@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Сергей Никишин](https://up.htmlacademy.ru/javascript/25/user/1875121).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Макаров](https://htmlacademy.ru/profile/deepspiral).
 
 ---
 
