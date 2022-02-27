@@ -6,10 +6,7 @@ getRandomInt(0, 10);
 
 
 function checkStringLength(commentLenght, maxLenght) {
-  if(commentLenght <= maxLenght) {
-    return true;
-  }
-  return false;
+  return commentLenght <= maxLenght;
 }
 
-checkStringLength();
+checkStringLength(120, 140);
