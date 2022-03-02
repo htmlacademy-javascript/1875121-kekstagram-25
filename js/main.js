@@ -6,7 +6,7 @@ getRandomInt(0, 10);
 
 
 function checkStringLength(string, maxLenght) {
-  return string.length < maxLenght;
+  return string.length <= maxLenght;
 }
 
 checkStringLength('some string', 140);
