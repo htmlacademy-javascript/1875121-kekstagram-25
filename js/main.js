@@ -5,8 +5,8 @@ function getRandomInt(min, max) {
 getRandomInt(0, 10);
 
 
-function checkStringLength(commentLenght, maxLenght) {
-  return commentLenght <= maxLenght;
+function checkStringLength(string, maxLenght) {
+  return string.length < maxLenght;
 }
 
-checkStringLength(120, 140);
+checkStringLength('some string', 140);
